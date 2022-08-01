@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to right, #ef32d9, #89fffd);
+  background: rgb(25, 25, 43);
 }
 
 .calculator {
